@@ -26,6 +26,7 @@ You will be evaluated using quizzes in each module as well as the final project 
 
 
 Syllabus
+
 Module 1: Data Collection
 - Collecting Data Using APIs
 - Collecting Data Using Webscraping
